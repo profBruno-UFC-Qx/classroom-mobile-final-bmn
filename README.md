@@ -9,7 +9,7 @@ Breve descrição do que o seu projeto faz.
 Matrícula, nome e curso dos participantes.
 
 ## :bulb: Objetivo Geral
-Descrever o objetivo de geral do projeto
+Desenvolver uma aplicação que permita monitorar o consumo de energia elétrica em tempo real em uma escola, auxiliando na identificação de desperdícios e promovendo práticas mais sustentáveis.
 
 ## :eyes: Público-Alvo
 Público-alvo do projeto

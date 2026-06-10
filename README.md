@@ -1,45 +1,68 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/AR7CADm8)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=23526920)
-# :checkered_flag: NOME DO PROJETO
+# ⚡ EnergyTrack – Monitor de Consumo de Energia
 
-Breve descrição do que o seu projeto faz.
-
-## :technologist: Membros da equipe
-
-Matrícula, nome e curso dos participantes.
-
-## :bulb: Objetivo Geral
-Breve descrição do projeto.
-
-## :eyes: Público-Alvo
-Público-alvo do projeto
-
-## :star2: Impacto Esperado
-Descreva o impacto esperado do projeto em relação ao público alvo
-
-
-## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
-
-Descreva ou liste brevemente as principais funcionalidades da aplicação que será desenvolvida. 
+Aplicativo mobile desenvolvido em Kotlin que permite aos usuários monitorar, analisar e controlar seu consumo de energia elétrica, auxiliando na redução de gastos e no uso consciente da energia.
 
 ---
 
-> [!WARNING]
+## Membros da equipe
+
+- Matrícula: 553556 – Nome: Beatriz de Sousa Alves – Curso: Engenharia da Computação  
+- Matrícula: 552819 – Nome: Maria Eduarda Almeida Rodrigues – Curso: Engenharia da Computação  
+- Matrícula: 552319 – Nome: Nathalia de Oliveira Lima – Curso: Engenharia da Computação  
+
+---
+
+## Objetivo Geral
+
+Desenvolver um aplicativo mobile utilizando Kotlin e Jetpack Compose que permita o monitoramento do consumo de energia elétrica, oferecendo ao usuário informações claras, alertas e recursos de controle, aplicando conceitos como arquitetura MVVM, persistência de dados local e integração com API externa.
+
+---
+
+## Público-Alvo
+
+Consumidores residenciais e pequenos empreendedores que desejam acompanhar seu consumo de energia elétrica, reduzir custos na conta de luz e adotar práticas mais eficientes no uso da energia.
+
+---
+
+## Impacto Esperado
+
+O aplicativo visa proporcionar maior controle sobre o consumo de energia, contribuindo para a redução de gastos financeiros e incentivando hábitos mais sustentáveis. Além disso, espera-se que o usuário consiga identificar padrões de consumo e evitar desperdícios, promovendo maior eficiência energética.
+
+---
+
+## Principais funcionalidades da aplicação
+
+- Cadastro, edição e exclusão de dispositivos elétricos (CRUD)  
+- Registro e acompanhamento do consumo de energia  
+- Visualização de histórico de consumo (diário/mensal)  
+- Alertas de consumo elevado (notificações locais)  
+- Integração com API externa para simulação ou obtenção de dados energéticos  
+- Modo claro e escuro (Material Design)  
+- Dashboard com resumo do consumo  
+- Definição de metas de consumo  
+
+---
+
+> **Warning**  
 > Daqui em diante o README.md só deve ser preenchido no momento da entrega final.
 
-##  Tecnologias: 
-Liste aqui as tecnologias e bibliotecas que foram utilizadas no projeto.
+---
+
+## Tecnologias
+
+-Liste aqui as tecnologias e bibliotecas que foram utilizadas no projeto.
 
 ---
 
 ## Instruções para Execução
-[Inclua instruções claras sobre como rodar o projeto localmente. Isso é crucial para que você possa testá-lo nas próximas entregas. **Somente caso haja alguma coisa diferente do usual**
 
 ```bash
 # Clone o repositório
-git clone [https://docs.github.com/pt/repositories/creating-and-managing-repositories/about-repositories](https://docs.github.com/pt/repositories/creating-and-managing-repositories/about-repositories)
+git clone https://github.com/seu-usuario/nome-do-repositorio
 
 # Navegue para o diretório
-cd [nome-do-repositorio]
+cd nome-do-repositorio
 
-# Siga as instruções específicas para a sua tecnologia...
+# Abra o projeto no Android Studio
+
+# Execute o app em um emulador ou dispositivo físico

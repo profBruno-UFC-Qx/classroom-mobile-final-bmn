@@ -1,0 +1,13 @@
+﻿# Android Studio / Gradle
+**/.gradle/
+**/build/
+**/.idea/
+**/.kotlin/
+**/local.properties
+*.iml
+
+# Python
+**/.venv/
+**/__pycache__/
+**/*.pyc
+**/energytrack_db.json
